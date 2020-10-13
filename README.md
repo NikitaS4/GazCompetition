@@ -28,3 +28,4 @@ All implemented solutions are represented in the `notebooks` folder as Python no
 ## Team
 
 1. [Schastlivtsev Nikita](https://github.com/NikitaS4)
+2. [Mitenev Aleksandr](https://github.com/mitenevav)
