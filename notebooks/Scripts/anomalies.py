@@ -1,7 +1,7 @@
 from sklearn.metrics import mean_absolute_error
 import numpy as np
 import pandas as pd
-from smoothing import double_exponential_smoothing
+from Scripts.smoothing import double_exponential_smoothing
 
 
 def segments(series, scale, window=1):
